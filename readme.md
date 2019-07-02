@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pablopunk/art/master/sick-colors/iterm2.svg" alt="screenshot">
+  <img src="https://raw.githubusercontent.com/pablopunk/art/master/sick-colors/iterm2.png" alt="screenshot">
 </p>
 
 ## Related
